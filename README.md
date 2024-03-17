@@ -1,2 +1,1 @@
-# QuartoPresentationTemplate
-My Quarto Presentation Template
+# My Quarto Presentation Template
